@@ -1,4 +1,10 @@
 CmdUtils.CreateCommand({
+  author: {
+    name: "Dodger Knight",
+  },
+  homepage: "http://github.com/dodgerknight/Ubiquity-commands/blob/master/drae.js",
+  license: "GPL v3",
+
   names: ["drae"],
   arguments: [{role: "object",
                nountype: noun_arb_text,
